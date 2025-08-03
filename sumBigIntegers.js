@@ -7,8 +7,6 @@
 
 export {sumBigIntegers} ;
 
-console.log('sumBigIntegers.js')
-
 function sumBigIntegers(numStr1, numStr2) {
   let bigInt1 = BigInt(numStr1);
   let bigInt2 = BigInt(numStr2);

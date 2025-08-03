@@ -15,8 +15,6 @@
 
 export {greetByName} ;
 
-console.log('greetByName.js')
-
 function greetByName(msg, name) {
   return msg + ', ' + name;
 }
